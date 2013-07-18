@@ -1,0 +1,3 @@
+[submodule "jquery.storage.js"]
+	path = jquery.storage.js
+	url = https://github.com/yckart/jquery.storage.js.git
